@@ -1,0 +1,13 @@
+:local(.friendList) {
+  padding-left: 0;
+  margin-bottom: 0;
+}
+
+:local(ul:last-child .friendList) {
+  cursor: pointer;
+  color: white;
+  list-style: none;
+  display: inline-block;
+  margin-left: 10px;
+  font-weight: bold;
+}

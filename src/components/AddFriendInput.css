@@ -1,0 +1,15 @@
+:local(.addFriendInput) {
+  border-radius: 0;
+  border-color: #ABAAAA;
+  border-left: 0;
+  border-right: 0;
+}
+
+:local(.gender) {
+  padding: 10px 0 10px 10px;
+  padding-right: 0px;
+  color: white;
+}
+
+
+
